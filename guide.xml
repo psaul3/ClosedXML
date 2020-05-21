@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ABC">
+    <display-name lang="en">ABC</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="CBS">
+    <display-name lang="en">CBS</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="CW">
+    <display-name lang="en">CW</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="en">Fox</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="en">Fox News</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="WeatherNation">
+    <display-name lang="en">WeatherNation</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="PBS - Network HD - Eastern">
+    <display-name lang="en">PBS - Network HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Disney Junior HDTV East (DISJR)">
+    <display-name lang="en">Disney Junior HDTV East (DISJR)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Disney Junior SD East (DISJR)">
+    <display-name lang="en">Disney Junior SD East (DISJR)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Disney Channel HDTV (East) (DISHD)">
+    <display-name lang="en">The Disney Channel HDTV (East) (DISHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Disney Channel (East) (DISNEY)">
+    <display-name lang="en">The Disney Channel (East) (DISNEY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="The Disney Channel (West) (DISNEY)">
+    <display-name lang="en">The Disney Channel (West) (DISNEY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Disney XD HDTV (East) (DXDHD)">
+    <display-name lang="en">Disney XD HDTV (East) (DXDHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Disney XD (East) (DISXD)">
+    <display-name lang="en">Disney XD (East) (DISXD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Nickelodeon HDTV (East) (NICHD)">
+    <display-name lang="en">Nickelodeon HDTV (East) (NICHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Nickelodeon (East) (NIK)">
+    <display-name lang="en">Nickelodeon (East) (NIK)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Nickelodeon (West) (NIK)">
+    <display-name lang="en">Nickelodeon (West) (NIK)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Nick Jr. (NICJR)">
+    <display-name lang="en">Nick Jr. (NICJR)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Nick Jr. HDTV (NJRHD)">
+    <display-name lang="en">Nick Jr. HDTV (NJRHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Nicktoons Network (East) (NICKTOON)">
+    <display-name lang="en">Nicktoons Network (East) (NICKTOON)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN News">
+    <display-name lang="en">ESPN News</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN U">
+    <display-name lang="en">ESPN U</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN2">
+    <display-name lang="en">ESPN2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SEC Network">
+    <display-name lang="en">SEC Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SEC Network Alternate">
+    <display-name lang="en">SEC Network Alternate</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ACC Network">
+    <display-name lang="en">ACC Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports 1">
+    <display-name lang="en">Fox Sports 1</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida">
+    <display-name lang="en">Fox Sports Florida</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida 1">
+    <display-name lang="en">Fox Sports Florida 1</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida 2">
+    <display-name lang="en">Fox Sports Florida 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida 1 HD">
+    <display-name lang="en">Fox Sports Florida 1 HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Big Ten Network">
+    <display-name lang="en">Big Ten Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime - Eastern Feed">
+    <display-name lang="en">Showtime - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime West">
+    <display-name lang="en">Showtime West</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Cinema HD - Eastern">
+    <display-name lang="en">Starz Cinema HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO - Eastern Feed">
+    <display-name lang="en">HBO - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO 2 - Eastern Feed">
+    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Signature (HBO 3) - Eastern">
+    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO - Pacific Feed">
+    <display-name lang="en">HBO - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO 2 - Pacific Feed">
+    <display-name lang="en">HBO 2 - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Comedy HD - East">
+    <display-name lang="en">HBO Comedy HD - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Family - Eastern Feed">
+    <display-name lang="en">HBO Family - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Family - Pacific Feed">
+    <display-name lang="en">HBO Family - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cooking Channel">
+    <display-name lang="en">Cooking Channel</display-name>
+    <url>http://www.cookingchanneltv.com</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="en">AMC</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="BBC America">
+    <display-name lang="en">BBC America</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="Bravo">
+    <display-name lang="en">Bravo</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="en">Discovery Channel</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="Freeform">
+    <display-name lang="en">Freeform</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="en">FX</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="en">National Geographic</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="SundanceTV HD">
+    <display-name lang="en">SundanceTV HD</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="en">Syfy</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="The Learning Channel HD">
+    <display-name lang="en">The Learning Channel HD</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="The Weather Channel">
+    <display-name lang="en">The Weather Channel</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="HGTV USA - Eastern Feed">
+    <display-name lang="en">HGTV USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Do It Yourself Network (USA) - East">
+    <display-name lang="en">Do It Yourself Network (USA) - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Food Network USA - Eastern Feed">
+    <display-name lang="en">Food Network USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="The Cooking Channel">
+    <display-name lang="en">The Cooking Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="E! Entertainment USA - Eastern Feed">
+    <display-name lang="en">E! Entertainment USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Bravo USA - Eastern Feed">
+    <display-name lang="en">Bravo USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ReelzChannel">
+    <display-name lang="en">ReelzChannel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HSN  - Home Shopping Network">
+    <display-name lang="en">HSN  - Home Shopping Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Paramount Network USA - Eastern Feed">
+    <display-name lang="en">Paramount Network USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="USA Network - East Feed">
+    <display-name lang="en">USA Network - East Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Syfy - Eastern Feed">
+    <display-name lang="en">Syfy - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TNT - Eastern Feed">
+    <display-name lang="en">TNT - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="truTV USA - Eastern">
+    <display-name lang="en">truTV USA - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TBS - East">
+    <display-name lang="en">TBS - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FX Networks East Coast">
+    <display-name lang="en">FX Networks East Coast</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Comedy Central (US) - Eastern Feed">
+    <display-name lang="en">Comedy Central (US) - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Oxygen - Eastern Feed">
+    <display-name lang="en">Oxygen - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Lifetime Network US - Eastern Feed">
+    <display-name lang="en">Lifetime Network US - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Lifetime Movies - East">
+    <display-name lang="en">Lifetime Movies - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AMC - Eastern Feed">
+    <display-name lang="en">AMC - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Turner Classic Movies USA">
+    <display-name lang="en">Turner Classic Movies USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FX Movie Channel">
+    <display-name lang="en">FX Movie Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FXX USA - Eastern">
+    <display-name lang="en">FXX USA - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="WE (Womens Entertainment) - Eastern">
+    <display-name lang="en">WE (Womens Entertainment) - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Discovery Life Channel">
+    <display-name lang="en">Discovery Life Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="BBC America - East">
+    <display-name lang="en">BBC America - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+</tv>
