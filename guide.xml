@@ -1,23 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="WNBC HDTV (NBC)">
+    <display-name lang="en">WNBC HDTV (NBC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
   <channel id="ABC">
     <display-name lang="en">ABC</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/abc.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="CBS">
     <display-name lang="en">CBS</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/zunsky.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="CW">
     <display-name lang="en">CW</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/ynslys.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="Fox">
     <display-name lang="en">Fox</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/fox-wpmt.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="Fox News">
     <display-name lang="en">Fox News</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/fox-news-channel.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="WeatherNation">
@@ -176,56 +185,64 @@
     <display-name lang="en">HBO Family - Pacific Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
-  <channel id="Cooking Channel">
-    <display-name lang="en">Cooking Channel</display-name>
-    <url>http://www.cookingchanneltv.com</url>
-  </channel>
   <channel id="AMC">
     <display-name lang="en">AMC</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/kayqak.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="Animal Planet">
     <display-name lang="en">Animal Planet</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/khyfsd.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="BBC America">
     <display-name lang="en">BBC America</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/sxgarp.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="Bravo">
     <display-name lang="en">Bravo</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/mrklur.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="en">Discovery Channel</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/nyuzsa.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="Freeform">
     <display-name lang="en">Freeform</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/zpztcj.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="FX">
     <display-name lang="en">FX</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/fx.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="National Geographic">
     <display-name lang="en">National Geographic</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/national-geographic.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="SundanceTV HD">
     <display-name lang="en">SundanceTV HD</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/sundancetv-hd.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="Syfy">
     <display-name lang="en">Syfy</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/syfy.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="The Learning Channel HD">
     <display-name lang="en">The Learning Channel HD</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/the-learning-channel-hd.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="The Weather Channel">
     <display-name lang="en">The Weather Channel</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/kdxaqd.png" />
     <url>http://www.ustvnow.com</url>
   </channel>
   <channel id="HGTV USA - Eastern Feed">
@@ -332,4 +349,2035 @@
     <display-name lang="en">BBC America - East</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
+  <programme start="20200521000000 +0000" stop="20200521020000 +0000" channel="ABC">
+    <title lang="en">Moana</title>
+    <desc lang="en">An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="ABC">
+    <title lang="en">Holey Moley</title>
+    <desc lang="en">A contestant finds himself in the water; two competitors fall into icy water while attempting to get across before their ball does; a firefighter contestant contends with a fire-breathing distraction; gymnast Gabby Douglas guest commentates.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521033500 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 11pm</title>
+    <desc lang="en">Local, national and international news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521033500 +0000" stop="20200521040600 +0000" channel="ABC">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <desc lang="en">Comic Patton Oswalt.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521040600 +0000" stop="20200521043600 +0000" channel="ABC">
+    <title lang="en">Nightline</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521043600 +0000" stop="20200521050700 +0000" channel="ABC">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <desc lang="en">Comic Patton Oswalt.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521050700 +0000" stop="20200521053700 +0000" channel="ABC">
+    <title lang="en">Never Fear Power Outages</title>
+    <desc lang="en">Stand up to unpredictable weather and unforeseen outages with Generac - the most trusted name in residential standby power.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521053700 +0000" stop="20200521060700 +0000" channel="ABC">
+    <title lang="en">BLINK: Affordable, Wire-Free, Home Security Cameras - Special Offer!</title>
+    <desc lang="en">Blink is the ultra-affordable, wire-free, home security camera with smartphone monitoring. Special TV Offer on Blink XT2 HD indoor/outdoor two-camera system, a yard sign &amp; window decals. PLUS a FREE Blink Indoor camera. Blink is an Amazon company.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521060700 +0000" stop="20200521080000 +0000" channel="ABC">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">Global news.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521083000 +0000" channel="ABC">
+    <title lang="en">America This Morning</title>
+    <desc lang="en">Breaking news.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521083000 +0000" stop="20200521090000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 4:30am</title>
+    <desc lang="en">Morning news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521093000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 This Morning</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521093000 +0000" stop="20200521100000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 This Morning</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521103000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 This Morning</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521103000 +0000" stop="20200521110000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 This Morning</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521130000 +0000" channel="ABC">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">"Holey Moley" executive producer Stephen Curry and commentator Rob Riggle; deals and steals with Tory Johnson.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="ABC">
+    <title lang="en">Live with Kelly and Ryan</title>
+    <desc lang="en">Via video chat: Debra Messing (podcast "The Dissenters"); a performance by a Top 7 fan favorite from "American Idol," as chosen by viewers of "Live"; self-care bargains.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="ABC">
+    <title lang="en">The Mel Robbins Show</title>
+    <desc lang="en">The manipulative tactics digital predators use to lure in children; three dangerous online challenges that kill young people.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="ABC">
+    <title lang="en">The View</title>
+    <desc lang="en">Actress Yvette Nicole Brown.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521163000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at Noon</title>
+    <desc lang="en">Religious programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521163000 +0000" stop="20200521170000 +0000" channel="ABC">
+    <title lang="en">25 Words or Less</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="ABC">
+    <title lang="en">Pandemic: What You Need to Know</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="ABC">
+    <title lang="en">The Ellen DeGeneres Show</title>
+    <desc lang="en">"The Masked Singer" winner; Phil Donahue and Marlo Thomas (book "What Makes a Marriage Last").(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521203000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 4pm</title>
+    <desc lang="en">Afternoon news.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521203000 +0000" stop="20200521210000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 4:30pm</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521213000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 5pm</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521213000 +0000" stop="20200521220000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 5:30pm</title>
+    <desc lang="en">Evening news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521223000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 6pm</title>
+    <desc lang="en">Evening news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521223000 +0000" stop="20200521230000 +0000" channel="ABC">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200521233000 +0000" channel="ABC">
+    <title lang="en">Newswatch 16 at 7pm</title>
+    <desc lang="en">Evening news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521233000 +0000" stop="20200522000000 +0000" channel="ABC">
+    <title lang="en">Inside Edition</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/abc.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="CBS">
+    <title lang="en">NCIS</title>
+    <desc lang="en">A Navy officer is murdered the same way his parents were murdered a decade ago; the team stumbles across a storage container filled with dollhouses that display re-creations of murder scenes; the team members agree to clean out their living spaces.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="CBS">
+    <title lang="en">FBI</title>
+    <desc lang="en">The son of a retired FBI agent is kidnapped, and the team must investigate if it's an act of revenge; Isobel must make a hard call when information from the past comes to light.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="CBS">
+    <title lang="en">S.W.A.T.</title>
+    <desc lang="en">The team searches for a group of drug smugglers who crash a plane and scatter after a joint mission with the DEA to stop the shipment goes awry; Hondo tries to make amends with Nichelle; Luca experiences anxiety about his return to the field.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521033500 +0000" channel="CBS">
+    <title lang="en">CBS 21 News at 11</title>
+    <desc lang="en">Local and regional news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521033500 +0000" stop="20200521043700 +0000" channel="CBS">
+    <title lang="en">The Late Show With Stephen Colbert</title>
+    <desc lang="en">TV host Keegan-Michael Key; Wilco performs.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521043700 +0000" stop="20200521053700 +0000" channel="CBS">
+    <title lang="en">The Late Late Show With James Corden</title>
+    <desc lang="en">Actor Simon Pegg; Ben Platt and Finneas perform.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521053700 +0000" stop="20200521060700 +0000" channel="CBS">
+    <title lang="en">BLINK: Affordable, Wire-Free, Home Security Cameras - Special Offer!</title>
+    <desc lang="en">Blink is the ultra-affordable, wire-free, home security camera with smartphone monitoring. Special TV Offer on Blink XT2 HD indoor/outdoor two-camera system, a yard sign &amp; window decals. PLUS a FREE Blink Indoor camera. Blink is an Amazon company.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521060700 +0000" stop="20200521063700 +0000" channel="CBS">
+    <title lang="en">Extra</title>
+    <desc lang="en">An interview with Terry Crews about his wife's health and welcoming Sofía Vergara to "America's Got Talent"; Tracee Ellis Ross discusses channeling her mother, Diana Ross, for her new role.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521063700 +0000" stop="20200521083000 +0000" channel="CBS">
+    <title lang="en">CBS Overnight News</title>
+    <desc lang="en">Stories focused on the day's events, newsmakers and breaking news.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521083000 +0000" stop="20200521090000 +0000" channel="CBS">
+    <title lang="en">CBS Evening News With Norah O'Donnell</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="CBS">
+    <title lang="en">CBS 21 Morning News</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="CBS">
+    <title lang="en">CBS 21 Morning News</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521130000 +0000" channel="CBS">
+    <title lang="en">CBS This Morning</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="CBS">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">Andrew and Wendy Palau from Luis Palau Ministries will update us on plans for GO2020, Global Outreach. May is "Global Outreach" month.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="CBS">
+    <title lang="en">Let's Make a Deal</title>
+    <desc lang="en">"The Bold and the Beautiful" stars Annika Noelle and Scott Clifton, and "The Young and the Restless" stars Tracey Bregman and Christian LeBlanc.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="CBS">
+    <title lang="en">The Price Is Right</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521163000 +0000" channel="CBS">
+    <title lang="en">CBS 21 News at 12</title>
+    <desc lang="en">Local and regional news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521163000 +0000" stop="20200521173000 +0000" channel="CBS">
+    <title lang="en">The Young and the Restless</title>
+    <desc lang="en">Jack warns Victoria not to trust Victor; Michael is shocked to come face to face with Tom; Malcolm comforts Sharon; Brendan tells Nick and Neil not to summon the police.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521173000 +0000" stop="20200521180000 +0000" channel="CBS">
+    <title lang="en">The Bold and the Beautiful</title>
+    <desc lang="en">The bride and groom face a difficult decision.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="CBS">
+    <title lang="en">The Talk</title>
+    <desc lang="en">Actor Clark Gregg; author Glennon Doyle.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="CBS">
+    <title lang="en">Dr. Phil</title>
+    <desc lang="en">Christy says her husband, Earnest, stopped paying the mortgage on their home to torture her; he says the problem is that she is a hoarder who doesn't cook, clean, or even parent their daughters, and she refuses to help with home expenses.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="CBS">
+    <title lang="en">The Ellen DeGeneres Show</title>
+    <desc lang="en">"The Masked Singer" winner; Phil Donahue and Marlo Thomas (book "What Makes a Marriage Last").(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521213000 +0000" channel="CBS">
+    <title lang="en">CBS 21 News at 5</title>
+    <desc lang="en">Local and regional news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521213000 +0000" stop="20200521220000 +0000" channel="CBS">
+    <title lang="en">CBS 21 News at 5:30</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521223000 +0000" channel="CBS">
+    <title lang="en">CBS 21 News at 6</title>
+    <desc lang="en">Local news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521223000 +0000" stop="20200521230000 +0000" channel="CBS">
+    <title lang="en">CBS Evening News With Norah O'Donnell</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200521233000 +0000" channel="CBS">
+    <title lang="en">Wheel of Fortune</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521233000 +0000" stop="20200522000000 +0000" channel="CBS">
+    <title lang="en">Jeopardy!</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zunsky.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="CW">
+    <title lang="en">The 100</title>
+    <desc lang="en">Clarke and her friends attempt to rebuild Sanctum as a new threat rises in the woods.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="CW">
+    <title lang="en">Bulletproof</title>
+    <desc lang="en">Pike and Bishop stumble onto an organ-harvesting ring, ultimately leading to Pike's daughter being taken by the ring leader; Arjana agrees to help Deputy Mayor Carmel with a development deal.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521023500 +0000" channel="CW">
+    <title lang="en">CBS 21 News at 10</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521023500 +0000" stop="20200521030000 +0000" channel="CW">
+    <title lang="en">Extra</title>
+    <desc lang="en">An interview with Terry Crews about his wife's health and welcoming Sofía Vergara to "America's Got Talent"; Tracee Ellis Ross discusses channeling her mother, Diana Ross, for her new role.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521033000 +0000" channel="CW">
+    <title lang="en">2 Broke Girls</title>
+    <desc lang="en">When the ladies take office temp jobs, Caroline tries to climb the corporate ladder and Max is hit on by the boss.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521033000 +0000" stop="20200521040000 +0000" channel="CW">
+    <title lang="en">2 Broke Girls</title>
+    <desc lang="en">The diner gang accompanies Max as she heads to Rhode Island to track down her birth father; Oleg is upset when Sophie wants him to help out around the house.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521043000 +0000" channel="CW">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Mike and Molly are excited to have the house to themselves for the weekend.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521043000 +0000" stop="20200521050000 +0000" channel="CW">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">To increase the chances of getting pregnant, Mike and Molly give up caffeine and eat healthier.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521053000 +0000" channel="CW">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">Tina worries that she is a jinx when she wrecks the car and gets the family involved with a questionable insurance agent (Bob Odenkirk).(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521053000 +0000" stop="20200521060000 +0000" channel="CW">
+    <title lang="en">Bob's Burgers</title>
+    <desc lang="en">The family thinks Gene's new girlfriend is annoying and talks him into dumping her, but he reconsiders when he learns her father could possibly help his music career.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521063000 +0000" channel="CW">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">Peter starts an anti-immigration group after being caught up in pro-American sentiment at a parade, but he changes his tune when he finds out he was born in Mexico.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521063000 +0000" stop="20200521070000 +0000" channel="CW">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">When Brian's proposition to rename Quahog's high school "Adam West High," to honor the late Mayor West, is successful, he feels encouraged to run for office as Quahog's new mayor; the race takes a turn when Quagmire campaigns against Brian.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521080000 +0000" channel="CW">
+    <title lang="en">The Doctors</title>
+    <desc lang="en">Chef Rocco DiSpirito discusses doing a keto reset for weight loss; a blushing bride is turned off by romance; overcoming depression; fixing indigestion; getting radiant skin.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="CW">
+    <title lang="en">Jerry Springer</title>
+    <desc lang="en">JD says he's done with all of the cheating and is ready to commit; stripper Meeka wants Taboo's husband.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="CW">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">A daily Holy Bible study hour presented verse by verse, chapter by chapter, book by book, from the Shepherd's Chapel in Gravette, Ark.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="CW">
+    <title lang="en">True Crime Files</title>
+    <desc lang="en">The offspring of a wealthy family outsmart the cops.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521120000 +0000" channel="CW">
+    <title lang="en">Dateline</title>
+    <desc lang="en">A hairdresser-turned-detective uncovers the truth behind the murder of a teenage girl at a scenic spot on a Utah river.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521123000 +0000" channel="CW">
+    <title lang="en">Supreme Justice With Judge Karen</title>
+    <desc lang="en">Broken barbecue grill; online defamation leads to loss of a job.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521123000 +0000" stop="20200521130000 +0000" channel="CW">
+    <title lang="en">Medicare Plans with Dental Coverage</title>
+    <desc lang="en">This is the kind of card that has America talking. With it, people with Medicare are getting All in One coverage for their doctor visits, hospital care, prescription drugs and more.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="CW">
+    <title lang="en">The Doctors</title>
+    <desc lang="en">Singer Aaron Carter sits down with the doctors and pleads for help for his mother, Jane, and her addiction to alcohol.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="CW">
+    <title lang="en">Maury</title>
+    <desc lang="en">Melanie's boyfriend gave her an ultimatum to get pregnant or he would leave her, but now he denies the baby; a woman's lies have come back to haunt her.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521153000 +0000" channel="CW">
+    <title lang="en">Judge Jerry</title>
+    <desc lang="en">An infestation of roaches has a woman suing her landlord for the return of $1,800 in rent money; a man who purchased a vehicle he saw online is suffering from a case of buyer's remorse and says the seller duped him.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521153000 +0000" stop="20200521160000 +0000" channel="CW">
+    <title lang="en">Judge Jerry</title>
+    <desc lang="en">A landlady sues her tenant for $4,000 for unpaid rent, property damage and unpaid utilities; a man sues his ex-boyfriend in the amount of $4,571.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521163000 +0000" channel="CW">
+    <title lang="en">Caught in Providence</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521163000 +0000" stop="20200521170000 +0000" channel="CW">
+    <title lang="en">Caught in Providence</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="CW">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">Hysterical over hair.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="CW">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">Woman sues her ex-friend for damaging her property and mishandling her dog, saying she and the defendant got into a fight and the defendant attacked her, yanked her wig off and pulled a knife on her.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="CW">
+    <title lang="en">Jerry Springer</title>
+    <desc lang="en">Angelica is unapologetic about sleeping with her twin sister's man; Breanna learns that her boyfriend is the father of another woman's baby; siblings Kyle and Kelsey reveal secrets.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="CW">
+    <title lang="en">Maury</title>
+    <desc lang="en">Tione discovered a strange pair of panties under the bed; Rachel and Johnathan return to the show because of social media and cheating accusations; Annie fears that the results of a polygraph test will uncover her husband's deep, dirty secret life.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="CW">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Car Mileage Madness.".(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521223000 +0000" channel="CW">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Beverly and Adam team up to do a mother-son cooking show on public access television; when Barry ruins the one college letter of recommendation he is able to get, Murray must step in to help.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521223000 +0000" stop="20200521230000 +0000" channel="CW">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Beverly wants the entire family to get together for Thanksgiving; Pops asks Erica and Barry to take over the holiday toast.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200521233000 +0000" channel="CW">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Sheldon and Amy try to use math to eliminate wedding planning stress; Koothrappali "breaks up" with Wolowitz after realizing he is hurting his confidence.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521233000 +0000" stop="20200522000000 +0000" channel="CW">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Sheldon's latest scientific breakthrough leaves him feeling like a fraud; a romantic gesture between Howard and Bernadette causes Penny to up her game with Leonard.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/ynslys.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010200 +0000" channel="Fox">
+    <title lang="en">The Masked Singer</title>
+    <desc lang="en">The three finalists compete for the golden mask trophy; one-by-one, their identities are revealed, including the winner.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521010200 +0000" stop="20200521020000 +0000" channel="Fox">
+    <title lang="en">Ultimate Tag</title>
+    <desc lang="en">The first set of contestants and taggers are introduced.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="Fox">
+    <title lang="en">Fox 43 News at 10:00pm</title>
+    <desc lang="en">Nighttime news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521033000 +0000" channel="Fox">
+    <title lang="en">Modern Family</title>
+    <desc lang="en">Tensions rise during a day of barbecue and football at Jay and Gloria's in the wake of an incident between Manny and Luke at school.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521033000 +0000" stop="20200521040000 +0000" channel="Fox">
+    <title lang="en">Modern Family</title>
+    <desc lang="en">Jay and Gloria have a disagreement about Manny's choice of outfit for his first day back at school; Cameron and Mitchell freak out when Lily gets a bump on the head.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521043000 +0000" channel="Fox">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">A friend (Jon Lovitz) fakes illness to get Jerry's sympathy; Kramer obstructs justice.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521043000 +0000" stop="20200521050000 +0000" channel="Fox">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">Jerry and his friends lose their car in the multilevel parking garage at a huge mall.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521053000 +0000" channel="Fox">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Homer and Marge Simpson raise Bart, Lisa and baby Maggie in Springfield, where eccentric residents make everyday life interesting.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521053000 +0000" stop="20200521060000 +0000" channel="Fox">
+    <title lang="en">DailyMailTV</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521063000 +0000" channel="Fox">
+    <title lang="en">RightThisMinute</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521063000 +0000" stop="20200521070000 +0000" channel="Fox">
+    <title lang="en">Cops</title>
+    <desc lang="en">An officer of the Fort Meyers, Fla., Police Department responds to a call involving a concerned citizen who says he was approached by an armed man claiming to have used his gun in an bank robbery.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521073000 +0000" channel="Fox">
+    <title lang="en">Mom</title>
+    <desc lang="en">Bonnie and Tammy revisit childhood memories on a trip to their old foster home; Christy and Jill regret accepting a date with two guys from their Alcoholics Anonymous meetings.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521073000 +0000" stop="20200521080000 +0000" channel="Fox">
+    <title lang="en">DailyMailTV</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="Fox">
+    <title lang="en">Fox 43 Morning News at 4:00am</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="Fox">
+    <title lang="en">Fox 43 Morning News at 5:00am</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="Fox">
+    <title lang="en">Fox 43 Morning News at 6:00am</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521120000 +0000" channel="Fox">
+    <title lang="en">Fox 43 Morning News at 7:00am</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521130000 +0000" channel="Fox">
+    <title lang="en">Fox 43 Morning News at 8:00am</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="Fox">
+    <title lang="en">Fox 43 Morning News at 9:00am</title>
+    <desc lang="en">News coverage to start the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="Fox">
+    <title lang="en">The Steve Wilkos Show</title>
+    <desc lang="en">Denise's cheating results in two pregnancies; Amber wants to know if her boyfriend is still being unfaithful with an immediate family member.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521153000 +0000" channel="Fox">
+    <title lang="en">black-ish</title>
+    <desc lang="en">Bow feels overwhelmed after the birth of DeVante and learns she is suffering from postpartum depression; the kids babyproof the house in an effort to help their parents.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521153000 +0000" stop="20200521160000 +0000" channel="Fox">
+    <title lang="en">black-ish</title>
+    <desc lang="en">When the flu breaks out in the Johnson household, Dre desperately tries to avoid catching it, while taking care of the whole family.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521163000 +0000" channel="Fox">
+    <title lang="en">Family Feud</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521163000 +0000" stop="20200521170000 +0000" channel="Fox">
+    <title lang="en">Family Feud</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="Fox">
+    <title lang="en">The Wendy Williams Show</title>
+    <desc lang="en">Tia Mowry (Netflix's "Family Reunion"); comic Michael Rapaport stops by to tell about his appearances at Caroline's on Broadway; home essentials from MorningSave.com.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="Fox">
+    <title lang="en">The Real</title>
+    <desc lang="en">Janelle Monáe ("Homecoming"); the hosts offer highly discounted fashionista finds; hotline bling: a viewer affected by the pandemic.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="Fox">
+    <title lang="en">The Mel Robbins Show</title>
+    <desc lang="en">The manipulative tactics digital predators use to lure in children; three dangerous online challenges that kill young people.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="Fox">
+    <title lang="en">Fox 43 News at 4pm</title>
+    <desc lang="en">Latest local and regional news.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="Fox">
+    <title lang="en">Fox 43 News at 5pm</title>
+    <desc lang="en">Local news coverage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521223000 +0000" channel="Fox">
+    <title lang="en">Family Feud</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521223000 +0000" stop="20200521230000 +0000" channel="Fox">
+    <title lang="en">Family Feud</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200521233000 +0000" channel="Fox">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Alan tries for an intimate night at a hotel with his new girlfriend; Charlie tries his own approach to get the "girlfriend experience.".(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521233000 +0000" stop="20200522000000 +0000" channel="Fox">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Jenny moves in with Evelyn and her wealthy boyfriend, Marty (Carl Reiner).(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-wpmt.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="Fox News">
+    <title lang="en">Tucker Carlson Tonight</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="Fox News">
+    <title lang="en">Hannity</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="Fox News">
+    <title lang="en">The Ingraham Angle</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521040000 +0000" channel="Fox News">
+    <title lang="en">Fox News at Night With Shannon Bream</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521050000 +0000" channel="Fox News">
+    <title lang="en">Tucker Carlson Tonight</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521060000 +0000" channel="Fox News">
+    <title lang="en">Hannity</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521070000 +0000" channel="Fox News">
+    <title lang="en">The Ingraham Angle</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521080000 +0000" channel="Fox News">
+    <title lang="en">Fox News at Night With Shannon Bream</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="Fox News">
+    <title lang="en">FOX &amp; Friends First</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="Fox News">
+    <title lang="en">FOX &amp; Friends First</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521130000 +0000" channel="Fox News">
+    <title lang="en">FOX and Friends</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521160000 +0000" channel="Fox News">
+    <title lang="en">America's Newsroom</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521170000 +0000" channel="Fox News">
+    <title lang="en">Outnumbered</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="Fox News">
+    <title lang="en">Outnumbered Overtime With Harris Faulkner</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="Fox News">
+    <title lang="en">Bill Hemmer Reports</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="Fox News">
+    <title lang="en">Your World With Neil Cavuto</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="Fox News">
+    <title lang="en">The Five</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521230000 +0000" channel="Fox News">
+    <title lang="en">Special Report With Bret Baier</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522000000 +0000" channel="Fox News">
+    <title lang="en">The Story With Martha MacCallum</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fox-news-channel.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521030000 +0000" channel="AMC">
+    <title lang="en">Tombstone</title>
+    <desc lang="en">Wyatt Earp (Kurt Russell) and his brothers, Morgan (Bill Paxton) and Virgil (Sam Elliott), have left their gunslinger ways behind them to settle down and start a business in the town of Tombstone, Ariz. While they aren't looking to find trouble, trouble soon finds them when they become targets of the ruthless Cowboy gang. Now, together with Wyatt's best friend, Doc Holliday (Val Kilmer), the brothers pick up their guns once more to restore order to a lawless land.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521060000 +0000" channel="AMC">
+    <title lang="en">U.S. Marshals</title>
+    <desc lang="en">An airplane bearing gruff U.S. Marshal Sam Gerard (Tommy Lee Jones) crashes in the wilderness. On board the same flight is Mark Sheridan (Wesley Snipes), a federal prisoner accused of double murder, who escapes during the ensuing chaos, but not before rescuing several people from the wreckage. Gerard is ordered to hunt down the fugitive along with State Department agent John Royce (Robert Downey Jr.), and the two pursue Sheridan relentlessly, despite growing doubts about his guilt.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521070600 +0000" channel="AMC">
+    <title lang="en">Lodge 49</title>
+    <desc lang="en">Dud plans a trip to Mexico with El Confidente despite Ernie's attempts to steer him down a new path; Liz and Lenore's friendship grows; Scott makes big changes at Lodge 49, while Connie learns about the True Lodge.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521070600 +0000" stop="20200521081200 +0000" channel="AMC">
+    <title lang="en">Lodge 49</title>
+    <desc lang="en">Liz goes into business with Lenore; Ernie reunites with Connie; Dud and Beth try out marriage; Blaise and Scott's conflict comes to a head.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521081200 +0000" stop="20200521091900 +0000" channel="AMC">
+    <title lang="en">Lodge 49</title>
+    <desc lang="en">As the Lynx prepare for The Mystic Chords of Memory, Dud's wound worsens; Blaise glimpses the past; Liz goes on a journey at Orbis.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521091900 +0000" stop="20200521094900 +0000" channel="AMC">
+    <title lang="en">The Three Stooges</title>
+    <desc lang="en">A professor bets he can turn the boys into gentlemen.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521094900 +0000" stop="20200521100000 +0000" channel="AMC">
+    <title lang="en">The Three Stooges</title>
+    <desc lang="en">The boys -- as three traveling salesmen -- vow never to wed, but unbeknownst to Moe and Curly, Larry has recently been married.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521103000 +0000" channel="AMC">
+    <title lang="en">2020 Battle For The White House Chess Set</title>
+    <desc lang="en">COLLECTOR'S EDITION CHESS SET CELEBRATES 2020 HISTORIC ELECTION. WHO WILL WIN THE ELECTION IN YOUR HOME?(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521103000 +0000" stop="20200521110000 +0000" channel="AMC">
+    <title lang="en">Hempvana Gold Pain Relief Cream</title>
+    <desc lang="en">Sick and tired of aches and pains? Muscle and joint pain a struggle? Get real relief from nagging joint and muscles pain quickly with Hempvana Gold Pain Relief Cream. Hempvana Gold has 100% more cannabis and is available in all 50 states.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521113000 +0000" channel="AMC">
+    <title lang="en">Introducing Crepe Erase Advanced Formula!</title>
+    <desc lang="en">Crepe Erase Advanced visibly transforms your skin with 9 super hydrators! Tune in to see how Courtney Thorne Smith &amp; Jane Seymour keep their skin so smooth. Dr. Ordon shares how you can visibly treat &amp; repair the look of crepey skin. CrepeErase.com.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521113000 +0000" stop="20200521120000 +0000" channel="AMC">
+    <title lang="en">Landscaping Secrets</title>
+    <desc lang="en">As the new WORX GT Revolution takes yards by storm, some neighbors are green with envy.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521123000 +0000" channel="AMC">
+    <title lang="en">Car Repair Secrets!</title>
+    <desc lang="en">Thinking of Investing? Find out how investing in your car could save you thousands!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521123000 +0000" stop="20200521130000 +0000" channel="AMC">
+    <title lang="en">Shark IQ Robot: Ultimate Convenience</title>
+    <desc lang="en">Shark IQ Robot vacuum delivers 50% better coverage by cleaning row by row, room by room, without repeating areas. Plus home mapping lets you select which rooms to clean-or when to clean them-through the app. PLUS upgrade to self-empty base now!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521133000 +0000" channel="AMC">
+    <title lang="en">The Three Stooges</title>
+    <desc lang="en">A professor bets he can turn the boys into gentlemen.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521133000 +0000" stop="20200521140000 +0000" channel="AMC">
+    <title lang="en">The Three Stooges</title>
+    <desc lang="en">Out West, the boys help an innocent maiden recover her inheritance.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521180000 +0000" channel="AMC">
+    <title lang="en">Saving Private Ryan</title>
+    <desc lang="en">Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over an uncertain future with honor, decency and courage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200522000000 +0000" channel="AMC">
+    <title lang="en">Tombstone</title>
+    <desc lang="en">Wyatt Earp (Kurt Russell) and his brothers, Morgan (Bill Paxton) and Virgil (Sam Elliott), have left their gunslinger ways behind them to settle down and start a business in the town of Tombstone, Ariz. While they aren't looking to find trouble, trouble soon finds them when they become targets of the ruthless Cowboy gang. Now, together with Wyatt's best friend, Doc Holliday (Val Kilmer), the brothers pick up their guns once more to restore order to a lawless land.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kayqak.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Jeff and Mark must pay off the property owner of their still site; Jim Tom helps Wayne perfect his recipe; Tickle starts bootlegging.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Tickle bootlegs at night; Wayne devises a drop-off plan; Tim's legal moonshine is threatened by equipment failure; Josh and Bill begin the run of strawberry brandy.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Josh and Bill return to their day jobs; Chico makes a risky decision; Tickle tries to keep Tim's former territory in supply; Mark and Jeff move their liquor.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521040000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Tim reaches a milestone; Jeff and Mark have suspicions of a rival; Chico takes a weighty risk; Josh and Bill consider bootlegging.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521050000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Tickle helps Tim investigate his new still hand; Josh and Bill take risks to stay in the game; Jeff, Mark and Lance try to remove the competition.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521060000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Tickle goes undercover to learn what Chico has been doing; Josh and Bill travel to a music festival; Jeff, Mark and Lance seek to eliminate the competition.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521070000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Jeff, Mark, Josh and Bill hit the ground running; Tim makes a life-changing move; Tickle has a realization.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521080000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Mark and Jeff clear the North Carolina still site; an argument threatens Josh and Bill's partnership; Tim struggles to adjust to moonshining in a distillery; Tickle takes a road trip.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Mark and Jeff set up the remote still site; Josh and Bill need cash to build a new copper still; Tim and Steve have a tense relationship; a new moonshiner appears.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="Animal Planet">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">A new hire at the distillery has a checkered past; Tickle learns from one of the best; Jeff and Mark receive a surprise visit.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="Animal Planet">
+    <title lang="en">The Crocodile Hunter</title>
+    <desc lang="en">While enjoying a surfing safari in Indonesia, Steve and his friends encounter fascinating and deadly jungle creatures.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521120000 +0000" channel="Animal Planet">
+    <title lang="en">Too Cute!</title>
+    <desc lang="en">Tabby litter befriends a bearded dragon; Alice the Burmese leads her brothers on an adventure; runt of Siberian litter plays with miniature horse named Kitty.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521130000 +0000" channel="Animal Planet">
+    <title lang="en">Dogs 101</title>
+    <desc lang="en">Meet unusual kinds of dogs like Barney, a droopy-eyed bluetick coonhound that works as Tennessee University's mascot; talented tracking dogs like the petit basset griffon.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="Animal Planet">
+    <title lang="en">Treehouse Masters</title>
+    <desc lang="en">Pete partners up in Utopia, Texas, for his first joint venture: a tree house bed-and-breakfast built for romance; a French-inspired chapel of love has a 25-foot steeple and the biggest bathroom Pete has built to date.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="Animal Planet">
+    <title lang="en">Treehouse Masters</title>
+    <desc lang="en">Pete builds a citadel fortress for a Texan couple who loves all things medieval; a 25-foot-high tower holds a round table and thrones, as well as a glass floor loft; a metalsmith joins the build to craft medieval touches.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="Animal Planet">
+    <title lang="en">Tanked</title>
+    <desc lang="en">Neil Patrick Harris wants a tank based on Houdini's famous water escape; Wayde has plans for his 15-year wedding anniversary.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521170000 +0000" channel="Animal Planet">
+    <title lang="en">The Secret Life of the Zoo</title>
+    <desc lang="en">Matrah the cheetah is shunned by his two brothers after starting to show signs of injury, he is taken to the vet to figure out what's wrong, but the brotherly reunion doesn't go as planned, so keepers fear they may have to separate them.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="Animal Planet">
+    <title lang="en">The Zoo</title>
+    <desc lang="en">Zoo staff face unexpected setbacks weaning a bright sea lion pup off its mother's milk; the bird team steps in to support a rejected curassow chick; a squirrel monkey visits the dentist.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="Animal Planet">
+    <title lang="en">Pit Bulls and Parolees</title>
+    <desc lang="en">Trying to rescue a tied up dog in an abandoned house proves to be a challenge for Tia; Tania tries her hardest to find a unique dog a home, but a health scare puts the adoption at risk.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="Animal Planet">
+    <title lang="en">Pit Bulls and Parolees</title>
+    <desc lang="en">Tumor lowers the chances of a dog finding a forever home; violent dog puts the VRC staff in danger; search is on for stray dog's owner.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="Animal Planet">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">Johnathan joins the deck crew on the Time Bandit and promptly gets injured; the Northwestern crew irritates Sig; the North American greenhorn is hazed.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="Animal Planet">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">Storm waves tear up the decks of the Early Dawn, North American and Northwestern; on the Cornelia Marie, Phil injures his ribs.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521230000 +0000" channel="Animal Planet">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">Murray struggles to take over the Cornelia Maria; the Northwestern strains its crane, destabilizing the ship; Wizard springs a leak; greenhorn Moi gets the ax.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522000000 +0000" channel="Animal Planet">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">The Northwestern fights the ice pack; the Wizard sets off with tempers flaring and a new greenhorn; Phil's future on the Cornelia Marie is questionable.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/khyfsd.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521023000 +0000" channel="BBC America">
+    <title lang="en">The Silence of the Lambs</title>
+    <desc lang="en">Jodie Foster stars as Clarice Starling, a top student at the FBI's training academy. Jack Crawford (Scott Glenn) wants Clarice to interview Dr. Hannibal Lecter (Anthony Hopkins), a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521023000 +0000" stop="20200521053000 +0000" channel="BBC America">
+    <title lang="en">Inferno</title>
+    <desc lang="en">Famous symbologist Robert Langdon (Tom Hanks) follows a trail of clues tied to Dante, the great medieval poet. When Langdon wakes up in an Italian hospital with amnesia, he teams up with Sienna Brooks (Felicity Jones), a doctor he hopes will help him recover his memories. Together, they race across Europe and against the clock to stop a madman (Ben Foster) from unleashing a virus that could wipe out half of the world's population.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521053000 +0000" stop="20200521080000 +0000" channel="BBC America">
+    <title lang="en">The Silence of the Lambs</title>
+    <desc lang="en">Jodie Foster stars as Clarice Starling, a top student at the FBI's training academy. Jack Crawford (Scott Glenn) wants Clarice to interview Dr. Hannibal Lecter (Anthony Hopkins), a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Picard and Data return from a short mission to find the ship's crew degenerating into primitive creatures.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Picard is ordered to relocate a group of American Indians from the planet on which they have settled; Wesley Crusher seeks clues to his future.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Alexander reaches the age for the First Rite of Ascension, but informs Worf he has no intention of becoming a warrior.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521120000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Picard finds that he has a son when his adversary DaiMon Bok threatens the young man's life in revenge for the death of the Ferengi's son.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521130000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Geordi and Data investigate an unexplained series of malfunctions, from which they deduce the ship is forming its own intelligence.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Ro Laren's infiltration of the Maquis vigilantes backfires when her hatred of Cardassians makes her sympathetic to the group's agenda.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Picard is manipulated back and forth through the past, present and future by his longtime antagonist Q.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">After convincing all three crews of the anomaly's danger to humanity, Picard discovers that he has made a potentially fatal error.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521170000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">On the way to a new star-base, the Enterprise meets an entity who puts the crew on trial for humanity's crimes.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">The Enterprise crew tries to solve the riddle of Farpoint Station to avoid being condemned by Q's tribunal.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">The Enterprise crew is exposed to a deadly contaminant after investigating odd occurrences aboard the starship U.S.S. Tsiolokovsky.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Diplomacy falters when Tasha gets kidnapped during a mission to negotiate for a badly needed vaccine.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Ferengi and Enterprise teams beam down to an unknown world to discover who or what has sapped power from both vessels.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">A propulsion test backfires and sends the Enterprise hurtling out of the galaxy to a place where thoughts become real.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521230000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">Transporting adversaries to a conference, the Enterprise enters an energy cloud that affects the ship and crew.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522000000 +0000" channel="BBC America">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">To learn the origin of a mysterious ship, Picard must get help from a planet where Wesley faces a death sentence.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sxgarp.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Lisa and Teddi butt heads over Kyle's emotional meltdown; Garcelle celebrates a milestone in her sons' lives, while Lisa struggles to stay in the shadows as her daughters launch their clothing line; Dorit and Sutton get into a cat-and-mouse game.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of Beverly Hills</title>
+    <desc lang="en">Erika is left seeing stars at her astrology party when old resentments flare up between Kyle, Teddi and Dorit; Denise's simmering frustration boils over in front of a speechless Lisa Rinna; Garcelle questions a new friend's priorities.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521023000 +0000" channel="Bravo">
+    <title lang="en">Watch What Happens Live With Andy Cohen</title>
+    <desc lang="en">Lisa Rinna and Sutton Stracke.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521023000 +0000" stop="20200521033000 +0000" channel="Bravo">
+    <title lang="en">Camp Getaway</title>
+    <desc lang="en">It's Camp Getaway's LGBTQ weekend, and Glen does everything in his power to give camp a true sense of Pride; Gavin, a new social coordinator, joins the team and Nile wonders if he's getting replaced; Adam's mixed signals.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521033000 +0000" stop="20200521040000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521043000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521043000 +0000" stop="20200521050000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521053000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521053000 +0000" stop="20200521060000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521063000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <desc lang="en">Lucky contestants get some help from TV personality Fredrik Eklund ("Million Dollar Listing New York").(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521063000 +0000" stop="20200521070000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521073000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521073000 +0000" stop="20200521080000 +0000" channel="Bravo">
+    <title lang="en">Cash Cab</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="Bravo">
+    <title lang="en">The Kelly Clarkson Show</title>
+    <desc lang="en">Kelly covers The Supremes' "Where Did Our Love Go?"; gardening advice and charity efforts; Jay Leno garage tour; Eugene Levy; egg-salad demo; donating hand sanitizer; making masks; lawnmower man update.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521093000 +0000" channel="Bravo">
+    <title lang="en">Slim Cycle</title>
+    <desc lang="en">Burn fat, lose weight &amp; sculpt your body all with one machine!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521093000 +0000" stop="20200521100000 +0000" channel="Bravo">
+    <title lang="en">A Bra So Supporting &amp; Flattering, Yet So Comfortable</title>
+    <desc lang="en">You won't even know you're wearing a bra! The secret is the double conforming straps. Be cradled in comfort &amp; youthfully lifted. All without underwire! CaraMia? is for all shapes &amp; supports all sizes!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521105500 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Jill returns from Australia; Sonja summons Cindy to her townhouse; Cindy and Ramona meet for drinks to settle things.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521105500 +0000" stop="20200521115000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Sonja throws a masquerade ball; Jill joins Cindy on a trip to the dentist; Ramona hosts a party for the launch of her wine.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521115000 +0000" stop="20200521124500 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">LuAnn takes the ladies somewhere exotic; Cindy has planned a spa retreat; Jill hosts an Anti-Bullying charity event.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521124500 +0000" stop="20200521134000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">The women are off to Morocco; LuAnn, Jill, Kelly and Cindy hit the town for some shopping.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521134000 +0000" stop="20200521143500 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">The women attend Brad's party and ride camels.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521143500 +0000" stop="20200521153000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">The dust settles in the Riad after the blowup between Jill and Ramona; Jill, Kelly, Sonja, Cindy, and Alex tour an opulent palace in Morocco; Alex checks in on Ramona, then storms in on LuAnn, Kelly and Cindy with the intention of telling LuAnn off.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521153000 +0000" stop="20200521162500 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">The women get ready to leave Morocco by making up and reminiscing.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521162500 +0000" stop="20200521172000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">It's party season in the city and every night the ladies are out attending events.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521172000 +0000" stop="20200521181500 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Sonja is trying to get her life back on track; Ramona is throwing a surprise party; Simon approaches Jill to discuss some of their issues; Kelly, Jill and LuAnn discuss Simon's cyber-bullying.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521181500 +0000" stop="20200521191000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Sonja is throwing a burlesque party and will be performing.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521191000 +0000" stop="20200521200500 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">LuAnn is shooting a music video; Sonja invites Cindy over; the Van Kempens are throwing an art party.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521200500 +0000" stop="20200521210000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">LuAnn throws an anniversary party; Ramona wants another baby; Natalie Cole appears.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Hamptons weekend wraps with a tennis grudge match between Luann and Ramona, while Sonja's dog groomers make a house call and Luann gets in on the action; a girls' night at Ramona's house turns into a wild ruckus.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521230000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">It's fashion week in NYC; Sonja is preparing for her "Sonja, by Sonja Morgan" fashion show and the ladies sit front row for Tinsley's big return to the runway; Luann plans her new cabaret show; while Leah fears that Sonja resents her.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522000000 +0000" channel="Bravo">
+    <title lang="en">The Real Housewives of New York City</title>
+    <desc lang="en">Leah continues to have issues with her mother and Tinsley gives updates on her dating life; Sonja realizes that her fashion line isn't doing as well as she hoped; Luann hosts an anti-bullying comedy show.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/mrklur.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="Discovery Channel">
+    <title lang="en">Expedition Unknown: Uncovered</title>
+    <desc lang="en">In the conclusion of his epic investigation, Josh Gates uses cutting-edge technology to investigate the Triangle's most infamous shipwreck and lost flights.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020900 +0000" channel="Discovery Channel">
+    <title lang="en">Expedition Unknown</title>
+    <desc lang="en">Josh Gates dives into all things unknown from the Bermuda Triangle to UFO sightings; joining the search are Evil Dead's Bruce Campbell, Lost's Michael Emerson, former CIA agent Mike Baker, comedian Mo Mandel and Naked and Afraid's Gwen Grimes.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521020900 +0000" stop="20200521030900 +0000" channel="Discovery Channel">
+    <title lang="en">Smalltown Throwdown</title>
+    <desc lang="en">In a quest to redeem towns with notorious reputations, comedian host Mo Mandel travels to the most boring town and drunkest town in America to see if they actually deserve their infamous monikers.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521030900 +0000" stop="20200521040000 +0000" channel="Discovery Channel">
+    <title lang="en">Expedition Unknown</title>
+    <desc lang="en">The famed Beale treasure of gold and silver worth more than $65 million.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521050000 +0000" channel="Discovery Channel">
+    <title lang="en">Expedition Unknown: Uncovered</title>
+    <desc lang="en">In the conclusion of his epic investigation, Josh Gates uses cutting-edge technology to investigate the Triangle's most infamous shipwreck and lost flights.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521060900 +0000" channel="Discovery Channel">
+    <title lang="en">Expedition Unknown</title>
+    <desc lang="en">Josh Gates dives into all things unknown from the Bermuda Triangle to UFO sightings; joining the search are Evil Dead's Bruce Campbell, Lost's Michael Emerson, former CIA agent Mike Baker, comedian Mo Mandel and Naked and Afraid's Gwen Grimes.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521060900 +0000" stop="20200521070900 +0000" channel="Discovery Channel">
+    <title lang="en">Smalltown Throwdown</title>
+    <desc lang="en">In a quest to redeem towns with notorious reputations, comedian host Mo Mandel travels to the most boring town and drunkest town in America to see if they actually deserve their infamous monikers.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521070900 +0000" stop="20200521080000 +0000" channel="Discovery Channel">
+    <title lang="en">Expedition Unknown</title>
+    <desc lang="en">The famed Beale treasure of gold and silver worth more than $65 million.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">Joey Caiafa sets out to build a mountaintop hideout outside of Leadville, Colo.; he enlists the help of his friends and an architectural designer to trick out the solar powered space, but unforeseen issues could bring the build to a halt.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">A young cabin builder creates a one-of-a-kind cabin in the Catskill Mountains in upstate New York during the winter months; because of the new and complicated design, the crew must adapt to the environment.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">Alaskan adventure guide Don Lee builds a remote survival cabin on top of a glacier, a site plagued with avalanches and unpredictable weather.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521120000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">A Colorado couple attempts to build one of the most energy-efficient homesteads in the state; Mother Nature and bleeding-edge technologies give them a run for their money as they race to complete their high-end alpine lodge before winter hits.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521130000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">A creative family builds a three-story tiny house full of clever features in Maine; but with limited experience and a three-month deadline, they'll need help from Maine natives to get it done.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">A young couple seeks to build a log cabin and start a new life in Alaska; with the help of family and friends, the couple endures the elements and long northern days to handcraft their new home from the ground up and completely off the grid.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">Innovative designer and builder Graham Hill sets out to transform a steep Maui jungle plot into a 600-square-foot, high-tech dream home with multiple moving walls and other space-maximizing features.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">A snowmobile guide and his wife build a cabin in Wyoming; the build includes a cabin, small shop and garage, all constructed with zero fossil fuels; the team faces challenges, but the project will prove to be as grand as the scenery surrounding it.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521170000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">With help from friends, an outdoorsman takes on the challenge of building a cabin in the remote White Mountains region of Alaska; the crew must work through snow, wind and mud to haul materials and build the perfect cabin in just seven days.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="Discovery Channel">
+    <title lang="en">Building Off the Grid</title>
+    <desc lang="en">Mollie and Sean Busby live off the grid for two years before deciding to take it to the next level, and the couple builds a super efficient tiny house surrounded by stunning views in northwestern Montana.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="Discovery Channel">
+    <title lang="en">Naked and Afraid</title>
+    <desc lang="en">A resilient mom and a quirky spider-lover are placed in the Seminole Forest of Florida, where they must contend with huge alligators and black bears.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="Discovery Channel">
+    <title lang="en">Naked and Afraid</title>
+    <desc lang="en">A strong bond develops between a biology student and an expert survival instructor in Croatia before they are confronted with a freak accident.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="Discovery Channel">
+    <title lang="en">Naked and Afraid</title>
+    <desc lang="en">An adventuress and a wilderness instructor take on storms, frigid nights and deadly snakes in the Honduras rainforest.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521230000 +0000" channel="Discovery Channel">
+    <title lang="en">Naked and Afraid</title>
+    <desc lang="en">People try to survive for three weeks in the cold of the Himalayan foothills, one survivalist's illness threatens the chances of both of them.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522000000 +0000" channel="Discovery Channel">
+    <title lang="en">Naked and Afraid</title>
+    <desc lang="en">A survival instructor and a pediatrician brave storms, cold and hunger in Argentina's Yungas Cloud Forest.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/nyuzsa.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="Freeform">
+    <title lang="en">Motherland: Fort Salem</title>
+    <desc lang="en">Raelle, Abigail and Tally graduate from basic training, making Abigail more desperate than ever to prove her unit belongs in War College; Alder eyes the unit for a rescue mission while Anacostia and Scylla find common ground.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="Freeform">
+    <title lang="en">Motherland: Fort Salem</title>
+    <desc lang="en">Raelle, Abigail and Tally graduate from basic training, making Abigail more desperate than ever to prove her unit belongs in War College; Alder eyes the unit for a rescue mission while Anacostia and Scylla find common ground.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521040000 +0000" channel="Freeform">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">News and commentary, interviews, feature stories and Christian ministry.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521060000 +0000" channel="Freeform">
+    <title lang="en">Step Up</title>
+    <desc lang="en">Tyler Gage (Channing Tatum) has been in and out of trouble for most of his life and after finding himself before the judge again, he is sentenced to 200 hours of community service mopping floors at the Maryland School of the Arts. He quickly catches the eye of Nora (Jenna Dewan), a gifted ballet student, who is trying to use hip-hop moves with her classical routines. After some initial hesitation, Nora convinces Tyler to help her with her dance routines and the sparks fly.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521063000 +0000" channel="Freeform">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521063000 +0000" stop="20200521070000 +0000" channel="Freeform">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521080000 +0000" channel="Freeform">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">News and commentary, interviews, feature stories and Christian ministry.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521083000 +0000" channel="Freeform">
+    <title lang="en">Larry King Special Report UPDATE</title>
+    <desc lang="en">Larry King investigates Omega XL, the ultimate all natural solution for pain and inflammation.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521083000 +0000" stop="20200521090000 +0000" channel="Freeform">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521093000 +0000" channel="Freeform">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521093000 +0000" stop="20200521100000 +0000" channel="Freeform">
+    <title lang="en">NuWave Bravo XL Smart Countertop Air Fryer Convection Oven</title>
+    <desc lang="en">Discover the Nuwave Bravo: a smart, a counter top oven that replaces air fryer, toaster, convection oven, slow cooker, roaster, pizza oven &amp; more! With Digital Temperature probe, you never need to check the inner temperature again.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521103000 +0000" channel="Freeform">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521103000 +0000" stop="20200521110000 +0000" channel="Freeform">
+    <title lang="en">NuWave Bravo XL Smart Countertop Air Fryer Convection Oven</title>
+    <desc lang="en">Discover the Nuwave Bravo: a smart, a counter top oven that replaces air fryer, toaster, convection oven, slow cooker, roaster, pizza oven &amp; more! With Digital Temperature probe, you never need to check the inner temperature again.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521113000 +0000" channel="Freeform">
+    <title lang="en">Baby Daddy</title>
+    <desc lang="en">Ben attempts to get his father to join everyone for Emma's first Christmas photo; Tucker and Riley discover Danny's high-school journal.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521113000 +0000" stop="20200521120000 +0000" channel="Freeform">
+    <title lang="en">Baby Daddy</title>
+    <desc lang="en">Riley is ready to perform her duties as maid of honor to Katie, while Ben decides to spice up the wedding.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521123000 +0000" channel="Freeform">
+    <title lang="en">Baby Daddy</title>
+    <desc lang="en">Ben tries to convince Riley that he is no longer a playboy; Tucker sets his sights on a model; Emma helps Bonnie get to know a handsome stranger.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521123000 +0000" stop="20200521130000 +0000" channel="Freeform">
+    <title lang="en">Baby Daddy</title>
+    <desc lang="en">Ben tries to warn Riley that her new beau is too good to be true; Bonnie mistakenly sends a revealing message from Danny to Riley's phone; Tucker attempts to impress his boss.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521133000 +0000" channel="Freeform">
+    <title lang="en">Baby Daddy</title>
+    <desc lang="en">Ben ignores Bonnie's advice and convinces Danny to endorse a brand of Japanese energy drinks; Riley becomes a candy striper, but doesn't think her volunteer work is making a difference.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521133000 +0000" stop="20200521140000 +0000" channel="Freeform">
+    <title lang="en">700 Club Interactive</title>
+    <desc lang="en">Efrem Graham shares how Hollywood is coping with the pandemic and other top stories from the world of entertainment.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="Freeform">
+    <title lang="en">The 700 Club</title>
+    <desc lang="en">Andrew and Wendy Palau from Luis Palau Ministries will update us on plans for GO2020, Global Outreach. May is "Global Outreach" month.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521173000 +0000" channel="Freeform">
+    <title lang="en">Forgetting Sarah Marshall</title>
+    <desc lang="en">Struggling musician Peter Bretter (Jason Segel) is better-known as the boyfriend of TV star Sarah Marshall (Kristen Bell). After she unceremoniously dumps him, he feels lost and alone but makes a last-ditch bid to get over it by going to Hawaii. However, she and her new boyfriend (Russell Brand) are there in the same hotel.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521173000 +0000" stop="20200521180000 +0000" channel="Freeform">
+    <title lang="en">The Middle</title>
+    <desc lang="en">Frankie takes Sue to a bar to celebrate her 21st birthday; Mike begrudgingly accompanies Brick to a "Planet Nowhere" convention; Axl and Hutch drive to attend Kenny's wedding.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521183000 +0000" channel="Freeform">
+    <title lang="en">The Middle</title>
+    <desc lang="en">Mike is offered the job of regional manager at the quarry; Brick suspects that he's being treated unfairly by his health teacher because of how horribly Axl treated her when he was a student.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521183000 +0000" stop="20200521190000 +0000" channel="Freeform">
+    <title lang="en">The Middle</title>
+    <desc lang="en">When the Glossners steal Sue's car, the Hecks, along with the Donahues and Bill Norwood, declare an all-out war.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521193000 +0000" channel="Freeform">
+    <title lang="en">The Middle</title>
+    <desc lang="en">Dr. Fulton calls Frankie and Mike into his office to inform them that Brick and Cindy have been making out all over school; Sue attempts to work up the courage to tell Sean how much she likes him.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521193000 +0000" stop="20200521200000 +0000" channel="Freeform">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Sideshow Bob, Springfield's new mayor, condemns the Simpson home.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521203000 +0000" channel="Freeform">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Springfield's air show turns explosive with the arrival of an atomic bomb-toting Sideshow Bob.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521203000 +0000" stop="20200521210000 +0000" channel="Freeform">
+    <title lang="en">The Simpsons</title>
+    <desc lang="en">Bart becomes convinced that his new neighbor is actually archenemy Sideshow Bob; to convince him that he is wrong, Marge takes Bart to the state penitentiary.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521230000 +0000" channel="Freeform">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">On a magical night when they are in in their 20s, Jonathan (John Cusack) meets Sara (Kate Beckinsale). He finds it love at first sight, but Sara believes in destiny. After 10 years the two -- with 3,000 miles between them -- must decide if fate wants them to be together again. When love feels like magic, it is called destiny; when destiny has a sense of humor, it is serendipity.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522020000 +0000" channel="Freeform">
+    <title lang="en">The Blind Side</title>
+    <desc lang="en">Michael Oher (Quinton Aaron), a homeless black teen, has drifted in and out of the school system for years. Then Leigh Anne Tuohy (Sandra Bullock) and her husband, Sean (Tim McGraw), take him in. The Tuohys eventually become Michael's legal guardians, transforming both his life and theirs. Michael's tremendous size and protective instincts make him a formidable force on the gridiron, and with help from his new family and devoted tutor, he realizes his potential as a student and football player.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/zpztcj.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521023400 +0000" channel="FX">
+    <title lang="en">What We Do in the Shadows</title>
+    <desc lang="en">The vampires offer shelter to an old nemesis who's down on his luck.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521023400 +0000" stop="20200521030800 +0000" channel="FX">
+    <title lang="en">What We Do in the Shadows</title>
+    <desc lang="en">After a vengeful enemy from the past appears without warning, Laszlo flees his home and goes into hiding to avoid certain death.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521030800 +0000" stop="20200521034200 +0000" channel="FX">
+    <title lang="en">What We Do in the Shadows</title>
+    <desc lang="en">The vampires offer shelter to an old nemesis who's down on his luck.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521034200 +0000" stop="20200521054200 +0000" channel="FX">
+    <title lang="en">The Purge: Anarchy</title>
+    <desc lang="en">One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521054200 +0000" stop="20200521061500 +0000" channel="FX">
+    <title lang="en">What We Do in the Shadows</title>
+    <desc lang="en">The vampires offer shelter to an old nemesis who's down on his luck.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521061500 +0000" stop="20200521071500 +0000" channel="FX">
+    <title lang="en">Snowfall</title>
+    <desc lang="en">With morale dipping, Franklin takes steps in order to ensure his crew's loyalty; Lucia's guard starts to come down after a dramatic encounter, but some of her compassion may be misguided; Teddy is confronted with the sins of the past.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521071500 +0000" stop="20200521081500 +0000" channel="FX">
+    <title lang="en">Snowfall</title>
+    <desc lang="en">Teddy sees a business opportunity when Franklin needs his help to clear the air with an old partner; Lucia realizes not everyone in her crew is who they seem to be.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521081500 +0000" stop="20200521084500 +0000" channel="FX">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Mike decides to go to a male fertility clinic and get tested; Vince gets a job as a door-to-door vacuum salesman.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521084500 +0000" stop="20200521090000 +0000" channel="FX">
+    <title lang="en">FXM Presents</title>
+    <desc lang="en">An examination of the process of making movies follows a production from script to screen.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521093000 +0000" channel="FX">
+    <title lang="en">5 Makeup Tips 4 You</title>
+    <desc lang="en">Airbrushed makeup made easy!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521093000 +0000" stop="20200521100000 +0000" channel="FX">
+    <title lang="en">24 Ladders in 1</title>
+    <desc lang="en">Little Giant Ladder system is a revolutionary adjustable unit that can transform into 24 different ladders.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521103000 +0000" channel="FX">
+    <title lang="en">Introducing Crepe Erase Advanced Formula!</title>
+    <desc lang="en">Crepe Erase Advanced visibly transforms your skin with 9 super hydrators! Tune in to see how Courtney Thorne Smith &amp; Jane Seymour keep their skin so smooth. Dr. Ordon shares how you can visibly treat &amp; repair the look of crepey skin. CrepeErase.com.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521103000 +0000" stop="20200521110000 +0000" channel="FX">
+    <title lang="en">BACK PAIN RELIEF NOW!</title>
+    <desc lang="en">Join the millions of people who have found BACK PAIN RELIEF with Teeter FitSpine Inversion Tables.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521130000 +0000" channel="FX">
+    <title lang="en">Life of Crime</title>
+    <desc lang="en">Double-crosses and plot twists abound when a corrupt real-estate developer (Tim Robbins) decides not to pay a ransom to his wife's (Jennifer Aniston) kidnappers (John Hawkes, Yasiin Bey).(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521133000 +0000" channel="FX">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Molly parties with Victoria and her friends on spring break; Mike tries to get special overtime assignments.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521133000 +0000" stop="20200521140000 +0000" channel="FX">
+    <title lang="en">Mike &amp; Molly</title>
+    <desc lang="en">Mike's birthday wish is for Molly and Peggy to get along, but the two clash as they try to plan his party; Samuel and Carl go after the same woman.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521160000 +0000" channel="FX">
+    <title lang="en">The Purge: Anarchy</title>
+    <desc lang="en">One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521183000 +0000" channel="FX">
+    <title lang="en">Baby Driver</title>
+    <desc lang="en">Talented getaway driver Baby (Ansel Elgort) relies on the beat of his personal soundtrack to be the best in the game. After meeting the woman (Lily James) of his dreams, he sees a chance to ditch his shady lifestyle and make a clean break. Coerced into working for a crime boss (Kevin Spacey), Baby must face the music as a doomed heist threatens his life, love and freedom.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521183000 +0000" stop="20200521213000 +0000" channel="FX">
+    <title lang="en">Maze Runner: The Death Cure</title>
+    <desc lang="en">Thomas leads some escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions that the Gladers have been asking since they arrived in the maze.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521213000 +0000" stop="20200522000000 +0000" channel="FX">
+    <title lang="en">Pacific Rim Uprising</title>
+    <desc lang="en">Jake Pentecost is a once-promising Jaeger pilot whose legendary father gave his life to secure humanity's victory against the monstrous Kaiju. Jake has since abandoned his training only to become caught up in a criminal underworld. But when an even more unstoppable threat is unleashed to tear through cities and bring the world to its knees, Jake is given one last chance by his estranged sister, Mako Mori, to live up to his father's legacy.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/fx.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="National Geographic">
+    <title lang="en">Borderforce USA</title>
+    <desc lang="en">A man taken by a Mexican drug cartel sprints across the bridge into America; at Progreso International Bridge, a lady is caught hiding anti-anxiety pills.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020300 +0000" channel="National Geographic">
+    <title lang="en">Borderforce USA</title>
+    <desc lang="en">Boxes of drugs are discovered inside a vehicle at the World Trade Bridge.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521020300 +0000" stop="20200521030300 +0000" channel="National Geographic">
+    <title lang="en">Drug Lords: The Next Generation</title>
+    <desc lang="en">Ingenious smuggling attempts and revealing the secret investigations that did them in.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521030300 +0000" stop="20200521040300 +0000" channel="National Geographic">
+    <title lang="en">Drug Lords: The Next Generation</title>
+    <desc lang="en">A new type of drug lord emerges from the ruins of Pablo Escobar's Colombian cocaine empire.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521040300 +0000" stop="20200521050300 +0000" channel="National Geographic">
+    <title lang="en">Drug Lords: The Next Generation</title>
+    <desc lang="en">Ingenious smuggling attempts and revealing the secret investigations that did them in.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521050300 +0000" stop="20200521060300 +0000" channel="National Geographic">
+    <title lang="en">World's Most Dangerous Drug: Super Meth</title>
+    <desc lang="en">Lisa Ling investigates today's methamphetamine; it's more than 93 percent pure, it's cheap and it lasts 24 hours; now, it's being laced with fentanyl, creating a toxic mix of death and addiction.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521060300 +0000" stop="20200521070300 +0000" channel="National Geographic">
+    <title lang="en">Tijuana Drug Lords</title>
+    <desc lang="en">The testimony of gangsters reveals how the Arellano-Felix Organization recruited an army of American gang members to fight a war against law enforcement and rival cartels.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521070300 +0000" stop="20200521080200 +0000" channel="National Geographic">
+    <title lang="en">Miami Drug Cartel</title>
+    <desc lang="en">South American and Cuban mobsters battle for control of the cocaine industry in southern Florida in the 1980s.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521080200 +0000" stop="20200521090100 +0000" channel="National Geographic">
+    <title lang="en">Narco State</title>
+    <desc lang="en">Correspondent Lisa Ling is with the Phoenix Police Department as they investigate a drug-related kidnapping, uncover marijuana and ambush suspects.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521090100 +0000" stop="20200521100000 +0000" channel="National Geographic">
+    <title lang="en">Narco Wars in Their Own Words</title>
+    <desc lang="en">The inside story of how DEA agents and the Colombian National Police brought down drug lord Pablo Escobar, the most vicious drug cartel in the world.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521103000 +0000" channel="National Geographic">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521103000 +0000" stop="20200521110000 +0000" channel="National Geographic">
+    <title lang="en">Paint Like A Pro With Paint Zoom!</title>
+    <desc lang="en">The Paint Zoom(tm) power sprayer does the hard work for you - painting in just minutes instead of hours.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521113000 +0000" channel="National Geographic">
+    <title lang="en">The Hard Truth</title>
+    <desc lang="en">Hard water wastes money. A natural and ecofriendly fix.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521113000 +0000" stop="20200521120000 +0000" channel="National Geographic">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521123000 +0000" channel="National Geographic">
+    <title lang="en">Car Repair Secrets!</title>
+    <desc lang="en">Thinking of Investing? Find out how investing in your car could save you thousands!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521123000 +0000" stop="20200521130000 +0000" channel="National Geographic">
+    <title lang="en">Yard Wars</title>
+    <desc lang="en">As the NEW Worx GT Revolution takes yards by storm, neighbors are left green with envy!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="National Geographic">
+    <title lang="en">Europe From Above</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="National Geographic">
+    <title lang="en">Europe From Above</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="National Geographic">
+    <title lang="en">Europe From Above</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521180000 +0000" channel="National Geographic">
+    <title lang="en">Nazi Underworld</title>
+    <desc lang="en">The lifestyles and secrets of Hitler and his inner circle are revealed.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="National Geographic">
+    <title lang="en">Hitler's Death Squad</title>
+    <desc lang="en">Retracing the last year of Das Reich, the Panzer elite division of Hitler's death squad, known for its mass murders in the Ukraine and Belarus; following the lives of officers.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="National Geographic">
+    <title lang="en">After Hitler</title>
+    <desc lang="en">Find out what happened to the world immediately after Adolf Hitler's downfall.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="National Geographic">
+    <title lang="en">After Hitler</title>
+    <desc lang="en">In the second part of the documentary, the Marshall Plan is examined more closely. In addition, flight and expulsion, the division of Germany and the air bridge to Berlin are also covered.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200522000000 +0000" channel="National Geographic">
+    <title lang="en">Hitler's Final Days</title>
+    <desc lang="en">An examination of the 11 months before Hitler's defeat; unveiling unknown chapters of the war in the days it took to bring down the Nazi regime.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/national-geographic.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="SundanceTV HD">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">Hotchner and Gideon race to save Elle and her fellow passengers when a paranoid schizophrenic man has a delusional episode on a train and takes the other riders hostage.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="SundanceTV HD">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">When two high-school students are murdered in a small town, Hotchner and his team suspect they may have been the victims of a cult killing.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="SundanceTV HD">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">Hotchner and his team attempt to get inside the mind of a psychotic killer whose fantasies lead him to murder.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521040000 +0000" channel="SundanceTV HD">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">The alibi of an abducted girl's father clears him of suspicion, leaving the profilers to search her seemingly safe neighborhood for the person who is responsible.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521050000 +0000" channel="SundanceTV HD">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">The team tries to determine who is poisoning residents of a small town.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521060000 +0000" channel="SundanceTV HD">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">Gideon becomes convinced of a woman's innocence when the team interviews husband-and-wife serial killers just days before their scheduled executions.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521070000 +0000" channel="SundanceTV HD">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">Gideon, Hotchner and their team reopen the unsolved case of a serial killer who has attacked someone for the first time in 20 years.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521100000 +0000" channel="SundanceTV HD">
+    <title lang="en">Knowing</title>
+    <desc lang="en">Fifty years after it was buried in a time capsule, a schoolgirl's cryptic document falls into the hands of Caleb Koestler, the son of professor John Koestler (Nicolas Cage). John figures out that the encoded message accurately lists every major disaster from the past five decades, and predicts three future calamities -- one a global cataclysm. When his warnings fall on deaf ears, John enlists the help of the prophetic author's daughter and granddaughter to try to avert the ultimate disaster.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521103000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">Andy has his hands full as a clan of mountain musicians descends on Mayberry to meet a bus.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521103000 +0000" stop="20200521110000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">An English tourist works off his reckless driving fine by being a valet and chauffeur for Andy.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521113000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">Barney is swindled when he invests his life savings in a used car.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521113000 +0000" stop="20200521120000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">After Opie is struck with puppy love, Barney tries to show him how to handle women.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521123000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">Barney thinks it's time Andy got married, but Andy has a plan of his own.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521123000 +0000" stop="20200521130000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">A pack of hunting dogs overruns the Mayberry courthouse just as Andy is trying to impress a state official.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521133000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">The Darling clan returns to Mayberry with its own kind of mountain trouble.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521133000 +0000" stop="20200521140000 +0000" channel="SundanceTV HD">
+    <title lang="en">The Andy Griffith Show</title>
+    <desc lang="en">Barney becomes extremely efficient as deputy sheriff after two thieves are jailed in Mayberry.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521170000 +0000" channel="SundanceTV HD">
+    <title lang="en">Inside Man</title>
+    <desc lang="en">A tough detective (Denzel Washington) matches wits with a cunning bank robber (Clive Owen), as a tense hostage crisis is unfolding. Into the volatile situation comes a woman named Madaline (Jodie Foster), a mysterious power broker who has a hidden agenda and threatens to push a tense situation past the breaking point.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="SundanceTV HD">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">An executive of a body armor company is gunned down while arriving at his daughter's $2 million sweet-16 party; detectives tie the incident to a U.S. soldier killed in Iraq when his vest failed.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="SundanceTV HD">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">Traffic police pull over a drunken, bloodstained celebrity (Chevy Chase), whose racism becomes apparent after his arrest.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="SundanceTV HD">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">Chris Drake finds his friend dead on a party bus, making him an instant suspect; as investigators dig deeper into the case, more of the story comes to light, leading to an unlikely conviction.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="SundanceTV HD">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">When a convicted mass murderer escapes from prison, detectives rush to apprehend him, but not before he murders two more people.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="SundanceTV HD">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">An attorney involved in a high-profile wire tapping case is found dead.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521230000 +0000" channel="SundanceTV HD">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">The son of a model and tabloid queen (Mariel Hemingway) dies of a brain tumor caused by bone replacement in his legs.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522000000 +0000" channel="SundanceTV HD">
+    <title lang="en">Law &amp; Order</title>
+    <desc lang="en">The adopted infant of a soap opera star and a relative of the baby's biological father are central to a murder investigation.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/sundancetv-hd.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521024500 +0000" channel="Syfy">
+    <title lang="en">The Mummy</title>
+    <desc lang="en">The Mummy is a rousing, suspenseful and horrifying epic about an expedition of treasure-seeking explorers in the Sahara Desert in 1925. Stumbling upon an ancient tomb, the hunters unwittingly set loose a 3,000-year-old legacy of terror, which is embodied in the vengeful reincarnation of an Egyptian priest who had been sentenced to an eternity as one of the living dead.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521024500 +0000" stop="20200521053000 +0000" channel="Syfy">
+    <title lang="en">The Mummy Returns</title>
+    <desc lang="en">Ten years after the events of the first film, Rick (Brendan Fraser) and Evelyn (Rachel Weisz) O'Connell are settled in 1935 London, where they are raising their son. When a chain of events finds the corpse of Imhotep (Arnold Vosloo) resurrected, the O'Connells go on a desperate race to save the world from unspeakable evil and to rescue their son before it is too late.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521053000 +0000" stop="20200521080000 +0000" channel="Syfy">
+    <title lang="en">Star Trek Beyond</title>
+    <desc lang="en">A surprise attack in outer space forces the Enterprise to crash-land on a mysterious world. The assault came from Krall (Idris Elba), a lizard-like dictator who derives his energy by sucking the life out of his victims. Krall needs an ancient and valuable artifact that's aboard the badly damaged starship. Left stranded in a rugged wilderness, Kirk (Chris Pine), Spock (Zachary Quinto) and the rest of the crew must now battle a deadly alien race while trying to find a way off their hostile planet.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521083000 +0000" channel="Syfy">
+    <title lang="en">Men's Health - All-Natural Secret for Prostate Health</title>
+    <desc lang="en">Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521083000 +0000" stop="20200521090000 +0000" channel="Syfy">
+    <title lang="en">Larry King Exclusive: Is Your Credit In Crisis?</title>
+    <desc lang="en">Is Your Credit In Crisis? Watch Larry King Interview Nationally Renowned Credit Expert John Ulzheimer, Who Reveals (1) Weird Trick For Raising Your Credit Scores. If Your Credit Score Is Below 750, Then You Won't Want To Miss This Special Report!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521093000 +0000" channel="Syfy">
+    <title lang="en">Dr. Ho's Total Body Pain Relief</title>
+    <desc lang="en">Dr-Ho's Circulation Promoter is designed to help improve circulation, reduce swelling, alleviate aching feet and legs, and relieve pain, tension, and stiffness.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521093000 +0000" stop="20200521100000 +0000" channel="Syfy">
+    <title lang="en">Try the New NuWave Brio Air Fryer Today! Great New Price!</title>
+    <desc lang="en">Make healthier fried foods for your family BBQ in the NuWave Brio. Enjoy the great taste and satisfying crunch of your favorite fried foods now made with up to 70% fewer calories. Great New Price!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110100 +0000" channel="Syfy">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena's spirit asks the thief Autolycus to help her live again by finding the life-restoring food of the gods, Ambrosia.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521110100 +0000" stop="20200521120200 +0000" channel="Syfy">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Presumed dead, the defeated Amazon leader Velasca returns to do battle and forces Xena to make a risky deal with her old enemy Callisto.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521120200 +0000" stop="20200521130200 +0000" channel="Syfy">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena and Gabrielle have a busy day saving two villages, one threatened by a warlord and the other by a giant.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521130200 +0000" stop="20200521140300 +0000" channel="Syfy">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">The conniving love goddess Aphrodite turns the bumbling Joxer into a dashing warrior and uses him to stop a royal wedding.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521140300 +0000" stop="20200521150400 +0000" channel="Syfy">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena and Gabrielle come to the aid of their friend Meleager the Mighty when he faces the death penalty for murder.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521150400 +0000" stop="20200521160500 +0000" channel="Syfy">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Though blinded by oil while fighting Gabrielle's kidnapper, Xena attempts to find and free her friend before seeking a cure.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521160500 +0000" stop="20200521170500 +0000" channel="Syfy">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena and Gabrielle encounter pirates, the sea god Poseidon and the alluring Sirens when they help Ulysses sail home to Ithaca to re-claim his kingdom.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521170500 +0000" stop="20200521190000 +0000" channel="Syfy">
+    <title lang="en">The Purge</title>
+    <desc lang="en">In an America ravaged by crime and overcrowded prisons, the government sanctions an annual 12-hour period during which all criminal activity -- including murder -- is legal. James Sandin (Ethan Hawke) and his family face the ultimate test when an intruder drags the vicious outside world into their home. James, Mary (Lena Headey) and their two children struggle to survive the night while trying not to turn into monsters like the ones they are striving to avoid.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521214500 +0000" channel="Syfy">
+    <title lang="en">The Mummy</title>
+    <desc lang="en">The Mummy is a rousing, suspenseful and horrifying epic about an expedition of treasure-seeking explorers in the Sahara Desert in 1925. Stumbling upon an ancient tomb, the hunters unwittingly set loose a 3,000-year-old legacy of terror, which is embodied in the vengeful reincarnation of an Egyptian priest who had been sentenced to an eternity as one of the living dead.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521214500 +0000" stop="20200522003000 +0000" channel="Syfy">
+    <title lang="en">The Mummy Returns</title>
+    <desc lang="en">Ten years after the events of the first film, Rick (Brendan Fraser) and Evelyn (Rachel Weisz) O'Connell are settled in 1935 London, where they are raising their son. When a chain of events finds the corpse of Imhotep (Arnold Vosloo) resurrected, the O'Connells go on a desperate race to save the world from unspeakable evil and to rescue their son before it is too late.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/syfy.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521020000 +0000" channel="The Learning Channel HD">
+    <title lang="en">My 600-Lb. Life</title>
+    <desc lang="en">Together weighing more than a ton, siblings Roshanda, Brandie and Clarence set out to lose weight as a family; the all-for-one approach may be hurting more than it helps when each of them shows signs of heading in the wrong direction after surgery.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521040000 +0000" channel="The Learning Channel HD">
+    <title lang="en">My 600-Lb. Life</title>
+    <desc lang="en">Twins Kandi and Brandi have a combined weight of over 1,100 pounds and fear losing each other to obesity, so they decide to make a change together.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521060000 +0000" channel="The Learning Channel HD">
+    <title lang="en">My 600-Lb. Life</title>
+    <desc lang="en">Together weighing more than a ton, siblings Roshanda, Brandie and Clarence set out to lose weight as a family; the all-for-one approach may be hurting more than it helps when each of them shows signs of heading in the wrong direction after surgery.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521080000 +0000" channel="The Learning Channel HD">
+    <title lang="en">My 600-Lb. Life</title>
+    <desc lang="en">Twins Kandi and Brandi have a combined weight of over 1,100 pounds and fear losing each other to obesity, so they decide to make a change together.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="The Learning Channel HD">
+    <title lang="en">Trading Spaces</title>
+    <desc lang="en">For the first time in a decade, the designers, carpenters and host Paige Davis of "Trading Spaces" reunite for a special reunion; greatest moments on "Trading Spaces" and surprises that leave some designers in tears.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="The Learning Channel HD">
+    <title lang="en">Trading Spaces</title>
+    <desc lang="en">For the first time in a decade, the designers, carpenters and host Paige Davis reunite for a 2-part reunion; in part 2, the new members of the "Trading Spaces" family are introduced; designers discuss the rooms they hold closest to their hearts.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="The Learning Channel HD">
+    <title lang="en">Little People, Big World</title>
+    <desc lang="en">Matt and Amy learn that they won't get to have Thanksgiving with their kids for the first time in 25 years.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521120000 +0000" channel="The Learning Channel HD">
+    <title lang="en">Little People, Big World</title>
+    <desc lang="en">The Roloff kids will be doing their own thing for Christmas, so Amy brings the family together to host a charity event on the farm; Matt doesn't tell Amy about a secret project.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521130000 +0000" channel="The Learning Channel HD">
+    <title lang="en">7 Little Johnstons</title>
+    <desc lang="en">The pressure is on to finish the kitchen renovation before entertaining guests for Easter; a project ends in disaster and the family reels after Amber is caught in a fire.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="The Learning Channel HD">
+    <title lang="en">Trading Spaces</title>
+    <desc lang="en">A few special guests bring many design surprises to this heartfelt and humorous episode; a couple of DIY design enthusiasts trade spaces with their neighbors and friends, a family whose toddler overcame cancer.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="The Learning Channel HD">
+    <title lang="en">Trading Spaces</title>
+    <desc lang="en">Host Paige Davis, designers Frank Bielec and Doug Wilson and carpenters Joanie Sprague and Brett Tutor honor some fierce females with fabulous designs.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="The Learning Channel HD">
+    <title lang="en">Trading Spaces</title>
+    <desc lang="en">Host Paige Davis, the designers and the carpenters embrace some truly organic designs; the winner of "Training Spaces" joins as Frank Bielec's design assistant.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521170000 +0000" channel="The Learning Channel HD">
+    <title lang="en">1000-Lb. Sisters</title>
+    <desc lang="en">The Slatons are larger-than-life sisters who have always relied on each other and food for support; Amy, age 31, is desperate to have children, but hasn't been able to due to her weight; Tammy, age 32, is one step away from being bedridden.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="The Learning Channel HD">
+    <title lang="en">1000-Lb. Sisters</title>
+    <desc lang="en">Amy and Tammy go to Atlanta to meet Dr. Procter to discuss weight loss surgery; Dr. Procter gives Tammy a hefty weight loss goal before he will approve her for surgery; the dietician has more bad news for Amy.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="The Learning Channel HD">
+    <title lang="en">1000-Lb. Sisters</title>
+    <desc lang="en">Amy and Tammy eagerly begin their weight loss journey; sticking to their diets is a matter of life or death but proves to be a real struggle; the pressure to reach their goals culminates in a huge fight that threatens their diets and relationship.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="The Learning Channel HD">
+    <title lang="en">1000-Lb. Sisters</title>
+    <desc lang="en">After a stressful first month of dieting, the sisters head back to Atlanta for their one-month check in with Dr. Procter to find out if they are on the right path to their weight goals; the results force Amy to make a difficult decision.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="The Learning Channel HD">
+    <title lang="en">1000-Lb. Sisters</title>
+    <desc lang="en">Amy decides to have a real wedding ceremony because if she gets approved for surgery, she's afraid she may not survive; after the wedding, the sisters head to Atlanta hoping for a life-changing final weigh-in.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="The Learning Channel HD">
+    <title lang="en">1000-Lb. Sisters</title>
+    <desc lang="en">Amy undergoes gastric bypass surgery to change her life but endangers herself by not sticking to the post-op diet; Tammy seeks support from her love interest, Jerry.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200522000000 +0000" channel="The Learning Channel HD">
+    <title lang="en">My 600-Lb. Life</title>
+    <desc lang="en">Seana is 23 and nearly 700 lbs, living at her mom's house, depressed and anxious, her weight-gain threatening to take her last breath; Dr. Now can give her the tools she needs to live, but until she chooses life, no one can save Seana but herself.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/the-learning-channel-hd.png" />
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521010000 +0000" channel="The Weather Channel">
+    <title lang="en">Weather Gone Viral</title>
+    <desc lang="en">Weather is unpredictable, and can threaten lives without warning; whether it's churning seas, deadly wildfires, or exploding volcanoes, no one is safe when good weather goes bad.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521010000 +0000" stop="20200521020000 +0000" channel="The Weather Channel">
+    <title lang="en">Weather Gone Viral</title>
+    <desc lang="en">In life, everything can change in an instant, and that's never more true than when weather is involved; whether documenting a devastating tornado or intentionally putting oneself in danger, Mother Nature always keeps people on their toes.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521030000 +0000" channel="The Weather Channel">
+    <title lang="en">Weather Gone Viral</title>
+    <desc lang="en">When wild weather strikes, it takes just minutes, or sometimes only seconds, to turn an extraordinary scene into chaos; for unsuspecting onlookers, extreme weather can lead to sheer terror as Mother Nature's wrath descends upon them.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521030000 +0000" stop="20200521040000 +0000" channel="The Weather Channel">
+    <title lang="en">Top Ten</title>
+    <desc lang="en">History is dotted with close calls and near misses that meant the difference between life and death; countdown of the top 10 weather "what-ifs.".(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521040000 +0000" stop="20200521050000 +0000" channel="The Weather Channel">
+    <title lang="en">Top Ten</title>
+    <desc lang="en">Scouring the record books to find the most extreme weather in history; traveling through time to countdown the worst weather years.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521050000 +0000" stop="20200521060000 +0000" channel="The Weather Channel">
+    <title lang="en">Top Ten</title>
+    <desc lang="en">The planet is burning and warm weather and wicked winds are fueling the flames; counting down the top ten worst wildfires in history.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521060000 +0000" stop="20200521070000 +0000" channel="The Weather Channel">
+    <title lang="en">Why Planes Crash</title>
+    <desc lang="en">Helicopters are the choice vehicle for remote rescues and rapid responses, but they have their own set of dangers.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521070000 +0000" stop="20200521080000 +0000" channel="The Weather Channel">
+    <title lang="en">Why Planes Crash</title>
+    <desc lang="en">People that miraculously survive a plane crash tell their harrowing stories.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521080000 +0000" stop="20200521090000 +0000" channel="The Weather Channel">
+    <title lang="en">Why Planes Crash</title>
+    <desc lang="en">A terrifying truth about weather is that thunderstorms, wind-shear and microbursts can bring down planes.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521100000 +0000" channel="The Weather Channel">
+    <title lang="en">Weather Gone Viral</title>
+    <desc lang="en">A winter that's for the record books; a bus that tries to outrun a rare Romanian tornado; a shelf cloud that is the stuff of nightmares.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521100000 +0000" stop="20200521110000 +0000" channel="The Weather Channel">
+    <title lang="en">AMHQ</title>
+    <desc lang="en">Breaking weather, in-depth storm coverage, cutting-edge graphics and meteorological expertise to prepare viewers for the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521120000 +0000" channel="The Weather Channel">
+    <title lang="en">AMHQ</title>
+    <desc lang="en">Breaking weather, in-depth storm coverage, cutting-edge graphics and meteorological expertise to prepare viewers for the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521120000 +0000" stop="20200521130000 +0000" channel="The Weather Channel">
+    <title lang="en">AMHQ</title>
+    <desc lang="en">Breaking weather, in-depth storm coverage, cutting-edge graphics and meteorological expertise to prepare viewers for the day.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521140000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521140000 +0000" stop="20200521150000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521150000 +0000" stop="20200521160000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521170000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521170000 +0000" stop="20200521180000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521190000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521190000 +0000" stop="20200521200000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521210000 +0000" channel="The Weather Channel">
+    <title lang="en">The Weather Channel LIVE</title>
+    <desc lang="en">A midday look at up-to-the-minute forecasts and weather stories from around the country.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521210000 +0000" stop="20200521220000 +0000" channel="The Weather Channel">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521230000 +0000" channel="The Weather Channel">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
+  <programme start="20200521230000 +0000" stop="20200522000000 +0000" channel="The Weather Channel">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/kdxaqd.png" />
+  </programme>
 </tv>
